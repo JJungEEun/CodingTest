@@ -13,7 +13,7 @@ public class joon_1712 {
 		
 		// a + b*n = n*c
 		// n = a / (c-b)
-		//���ͺб���: n+1
+		//¼ÕÀÍºÐ±âÁ¡: n+1
 		
 		if (b >= c) { System.out.println(-1);}
 		else { System.out.println(a/(c-b)+1);}
