@@ -15,6 +15,7 @@
 - [Linked List](#Linked-List)
 - [Stack](#Stack)
 - [Queue](#Queue)
+- [Hash](#Hash)
 
 ## String
 ---
@@ -54,4 +55,10 @@ lc 232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-qu
 lc 622|[Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)|[python](https://github.com/JJungEEun/CodingTest/blob/main/interviews/chap9_%EC%8A%A4%ED%83%9D%2C%ED%81%90/chap09_25_%EC%9B%90%ED%98%95%ED%81%90%EB%94%94%EC%9E%90%EC%9D%B8.ipynb)|Medium|
 lc 2130|[Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/)|[python](https://github.com/JJungEEun/CodingTest/blob/main/interviews/chap9_%EC%8A%A4%ED%83%9D%2C%ED%81%90/leetcode%202130.ipynb)|Medium|
 
-
+## Hash
+---
+#| Title | Solution | Difficulty | Note|
+---|---|---|---|---|
+lc 771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[python](https://github.com/JJungEEun/CodingTest/blob/main/interviews/chap11_%ED%95%B4%EC%8B%9C%ED%85%8C%EC%9D%B4%EB%B8%94/chap11_29_%EB%B3%B4%EC%84%9D%EA%B3%BC%20%EB%8F%8C.ipynb)|Easy|
+lc 3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[python](https://github.com/JJungEEun/CodingTest/blob/main/interviews/chap11_%ED%95%B4%EC%8B%9C%ED%85%8C%EC%9D%B4%EB%B8%94/Chap11_30_%EC%A4%91%EB%B3%B5%20%EB%AC%B8%EC%9E%90%20%EC%97%86%EB%8A%94%20%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%EB%B6%80%EB%B6%84%20%EB%AC%B8%EC%9E%90%EC%97%B4.ipynb)|Medium|
+lc 347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[python](https://github.com/JJungEEun/CodingTest/blob/main/interviews/chap11_%ED%95%B4%EC%8B%9C%ED%85%8C%EC%9D%B4%EB%B8%94/chap11_31_%EC%83%81%EC%9C%84%20k%20%EB%B9%88%EB%8F%84%20%EC%9A%94%EC%86%8C.ipynb)|Medium|
