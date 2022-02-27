@@ -17,6 +17,7 @@
 - [Queue](#Queue)
 - [Hash](#Hash)
 - [Graph](#Graph)
+- [Tree](#Tree)
 
 ## String
 ---
@@ -71,3 +72,12 @@ lc 347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-el
 lc 200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[python](https://github.com/JJungEEun/CodingTest/blob/main/interviews/chap12_%EA%B7%B8%EB%9E%98%ED%94%84/chap12_32_%EC%84%AC%EC%9D%98%20%EA%B0%9C%EC%88%98.ipynb)|Medium|
 lc 17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[python](https://github.com/JJungEEun/CodingTest/blob/main/interviews/chap12_%EA%B7%B8%EB%9E%98%ED%94%84/chap12_33_%EC%A0%84%ED%99%94%20%EB%B2%88%ED%98%B8%20%EB%AC%B8%EC%9E%90%20%EC%A1%B0%ED%95%A9.ipynb)|Medium|
 lc 46|[Permutations](https://leetcode.com/problems/permutations/)|[python](https://github.com/JJungEEun/CodingTest/blob/main/interviews/chap12_%EA%B7%B8%EB%9E%98%ED%94%84/chap12_34_%EC%88%9C%EC%97%B4.ipynb)|Medium|
+lc 77|[Combinations](https://leetcode.com/problems/combinations/)|[python](https://github.com/JJungEEun/CodingTest/blob/main/interviews/chap12_%EA%B7%B8%EB%9E%98%ED%94%84/chap12_35_%EC%A1%B0%ED%95%A9.ipynb)|Medium|
+lc 39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[python](https://github.com/JJungEEun/CodingTest/blob/main/interviews/chap12_%EA%B7%B8%EB%9E%98%ED%94%84/chap12_36_%EC%A1%B0%ED%95%A9%EC%9D%98%20%ED%95%A9.ipynb)|Medium|
+lc 78|[Subsets](https://leetcode.com/problems/subsets/)|[python](https://github.com/JJungEEun/CodingTest/blob/main/interviews/chap12_%EA%B7%B8%EB%9E%98%ED%94%84/chap12_37_%EB%B6%80%EB%B6%84%EC%A7%91%ED%95%A9.ipynb)|Medium|
+lc 332|[Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)|[python](https://github.com/JJungEEun/CodingTest/blob/main/interviews/chap12_%EA%B7%B8%EB%9E%98%ED%94%84/chap12_38_%EC%9D%BC%EC%A0%95%20%EC%9E%AC%EA%B5%AC%EC%84%B1.ipynb)|Hard|
+
+## Tree
+---
+#| Title | Solution | Difficulty | Note|
+---|---|---|---|---|
