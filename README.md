@@ -81,3 +81,6 @@ lc 332|[Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinera
 ---
 #| Title | Solution | Difficulty | Note|
 ---|---|---|---|---|
+lc 104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)|[python](https://github.com/JJungEEun/CodingTest/blob/main/interviews/chap14_%ED%8A%B8%EB%A6%AC/chap14_42_%EC%9D%B4%EC%A7%84%20%ED%8A%B8%EB%A6%AC%EC%9D%98%20%EC%B5%9C%EB%8C%80%20%EA%B9%8A%EC%9D%B4.ipynb)|Easy|
+lc 543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree)|[python](https://github.com/JJungEEun/CodingTest/blob/main/interviews/chap14_%ED%8A%B8%EB%A6%AC/chap14_43_%EC%9D%B4%EC%A7%84%20%ED%8A%B8%EB%A6%AC%EC%9D%98%20%EC%A7%81%EA%B2%BD.ipynb)|Easy|
+p 49191|[순위](https://programmers.co.kr/learn/courses/30/lessons/49191)|[python](https://github.com/JJungEEun/CodingTest/blob/main/programmers/level3/programmer%2049191_%EC%88%9C%EC%9C%84.ipynb)||
