@@ -18,6 +18,7 @@
 - [Hash](#Hash)
 - [Graph](#Graph)
 - [Tree](#Tree)
+- [Trie](#Trie)
 
 ## String
 ---
@@ -40,6 +41,9 @@ lc 15|[3Sum](https://leetcode.com/problems/3sum/)|[python](https://github.com/JJ
 lc 651|[Array Partition I](https://leetcode.com/problems/array-partition-i/)|[python](https://github.com/JJungEEun/CodingTest/blob/main/interviews/chap7_%EB%B0%B0%EC%97%B4/chap7_10_%EB%B0%B0%EC%97%B4%20%ED%8C%8C%ED%8B%B0%EC%85%981.ipynb)|Easy|
 1c 238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[python](https://github.com/JJungEEun/CodingTest/blob/main/interviews/chap7_%EB%B0%B0%EC%97%B4/chap7_11_%EC%9E%90%EC%8B%A0%EC%9D%84%20%EC%A0%9C%EC%99%B8%ED%95%9C%20%EB%B0%B0%EC%97%B4%EC%9D%98%20%EA%B3%B1.ipynb)|Medium
 lc 121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[python](https://github.com/JJungEEun/CodingTest/blob/main/interviews/chap7_%EB%B0%B0%EC%97%B4/chap7_12_%EC%A3%BC%EC%8B%9D%EC%9D%84%20%EC%82%AC%EA%B3%A0%ED%8C%94%EA%B8%B0%20%EA%B0%80%EC%9E%A5%20%EC%A2%8B%EC%9D%80%20%EC%8B%9C%EC%A0%90.ipynb)|Easy|
+lc 148|[Sort List](https://leetcode.com/problems/sort-list/)|[python](https://github.com/JJungEEun/CodingTest/blob/main/interviews/chap17_배열/chap17_58_리스트%20정렬.ipynb)|Medium|
+lc 56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[python](https://github.com/JJungEEun/CodingTest/blob/main/interviews/chap17_배열/chap17_59_구간%20병합.ipynb)|Medium|
+lc 147|[Insertion SortList](https://leetcode.com/problems/insertion-sort-list/)|[python](https://github.com/JJungEEun/CodingTest/blob/main/interviews/chap17_배열/chap17_60_삽입%20정렬%20리스트.ipynb)|Medium|
 
 ## Linked List
 ---
@@ -86,3 +90,10 @@ lc 108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problem
 lc 310|[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)|[python](https://github.com/JJungEEun/CodingTest/blob/main/interviews/chap14_%ED%8A%B8%EB%A6%AC/chap14_49_%EC%B5%9C%EC%86%8C%20%EB%86%92%EC%9D%B4%20%ED%8A%B8%EB%A6%AC.ipynb)|Medium|
 lc 543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree)|[python](https://github.com/JJungEEun/CodingTest/blob/main/interviews/chap14_%ED%8A%B8%EB%A6%AC/chap14_43_%EC%9D%B4%EC%A7%84%20%ED%8A%B8%EB%A6%AC%EC%9D%98%20%EC%A7%81%EA%B2%BD.ipynb)|Easy|
 p 49191|[순위](https://programmers.co.kr/learn/courses/30/lessons/49191)|[python](https://github.com/JJungEEun/CodingTest/blob/main/programmers/level3/programmer%2049191_%EC%88%9C%EC%9C%84.ipynb)||
+
+## Trie
+---
+#| Title | Solution | Difficulty | Note|
+---|---|---|---|---|
+lc 208|[Implement Trie(Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[python](https://github.com/JJungEEun/CodingTest/blob/main/interviews/chap16_트라이/chap16_56_트라이%20구현.ipynb)|Medium|
+lc 648|[Replace Words](https://leetcode.com/problems/replace-words/)|[python](https://github.com/JJungEEun/CodingTest/blob/main/interviews/chap16_트라이/lc648_Replace%20Words.ipynb)|Medium|
