@@ -19,6 +19,7 @@
 - [Graph](#Graph)
 - [Tree](#Tree)
 - [Trie](#Trie)
+- [Sorting](#Sorting)
 
 ## String
 ---
@@ -97,3 +98,19 @@ p 49191|[순위](https://programmers.co.kr/learn/courses/30/lessons/49191)|[pyth
 ---|---|---|---|---|
 lc 208|[Implement Trie(Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[python](https://github.com/JJungEEun/CodingTest/blob/main/interviews/chap16_트라이/chap16_56_트라이%20구현.ipynb)|Medium|
 lc 648|[Replace Words](https://leetcode.com/problems/replace-words/)|[python](https://github.com/JJungEEun/CodingTest/blob/main/interviews/chap16_트라이/lc648_Replace%20Words.ipynb)|Medium|
+
+## Sorting
+---
+#| Title | Solution | Difficulty | Note|
+---|---|---|---|---|
+lc 148|[Sort List](https://leetcode.com/problems/sort-list)|[python](https://github.com/JJungEEun/CodingTest/blob/main/interviews/chap17_%EB%B0%B0%EC%97%B4/chap17_58_%E1%84%85%E1%85%B5%E1%84%89%E1%85%B3%E1%84%90%E1%85%B3%20%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%85%E1%85%A7%E1%86%AF.ipynb)|Medium|
+lc 56|[Merge Intervals](https://leetcode.com/problems/merge-intervals)|[python](https://github.com/JJungEEun/CodingTest/blob/main/interviews/chap17_%EB%B0%B0%EC%97%B4/chap17_59_%E1%84%80%E1%85%AE%E1%84%80%E1%85%A1%E1%86%AB%20%E1%84%87%E1%85%A7%E1%86%BC%E1%84%92%E1%85%A1%E1%86%B8.ipynb)|Medium|
+lc 147|[Insertion SortList](https://leetcode.com/problems/insertion-sort-list)|[python](https://github.com/JJungEEun/CodingTest/blob/main/interviews/chap17_%EB%B0%B0%EC%97%B4/chap17_60_%E1%84%89%E1%85%A1%E1%86%B8%E1%84%8B%E1%85%B5%E1%86%B8%20%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%85%E1%85%A7%E1%86%AF%20%E1%84%85%E1%85%B5%E1%84%89%E1%85%B3%E1%84%90%E1%85%B3.ipynb)|Medium|
+lc 389|[Find the Difference](https://leetcode.com/problems/find-the-difference)|[python](https://github.com/JJungEEun/CodingTest/blob/main/interviews/chap17_%EB%B0%B0%EC%97%B4/389.%20Find%20the%20Difference.ipynb)|Easy|
+
+
+## Binary search
+---
+#| Title | Solution | Difficulty | Note|
+---|---|---|---|---|
+lc 704|[Binary Search]()|[python](https://github.com/JJungEEun/CodingTest/blob/main/interviews/chap18_%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89/chap18_65_%EC%9D%B4%EC%A7%84%20%EA%B2%80%EC%83%89.ipynb)||
